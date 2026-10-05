@@ -10,6 +10,7 @@ scelte motivate, risultati circoscritti e domande ancora aperte.
 
 | Data | Articolo | Tema |
 |---|---|---|
+| 5 ottobre 2026 | [Prima del codice: quali promesse deve mantenere una memoria aziendale?](journal/2026-10-05-prima-del-codice.md) | Il percorso, puntata 1 — requisiti e alternative architetturali |
 | 5 ottobre 2026 | [Mettere alla prova la memoria: cosa abbiamo verificato nell’Hub Cognitivo](journal/2026-10-05-testare-la-memoria.md) | Test, idempotenza, replay e limiti delle verifiche |
 | 5 ottobre 2026 | [Una memoria che cambia idea senza cancellare il passato](journal/2026-10-05-memoria-storia-e-giudizi.md) | Provenance, bitemporalità e giudizi discordanti |
 
