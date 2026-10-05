@@ -1,0 +1,37 @@
+# HC — Engineering Journal
+
+Stiamo costruendo un **Hub Cognitivo**: un sistema che aiuti a interrogare la conoscenza
+aziendale conservando fonti, storia, incertezze e giudizi.
+
+Questo è il nostro diario pubblico di sviluppo. Raccontiamo problemi concreti,
+scelte motivate, risultati circoscritti e domande ancora aperte.
+
+## Articoli
+
+| Data | Articolo | Tema |
+|---|---|---|
+| 5 ottobre 2026 | [Una memoria che cambia idea senza cancellare il passato](journal/2026-10-05-memoria-storia-e-giudizi.md) | Provenance, bitemporalità e giudizi discordanti |
+
+## Come leggere il journal
+
+Distinguiamo sempre ciò che abbiamo implementato e verificato, ciò che stiamo
+analizzando e ciò che resta una direzione di ricerca. Un esperimento locale non
+certifica un prodotto pronto per la produzione.
+
+Usiamo esempi sintetici per spiegare le sfide. Quando una ricerca esterna informa
+il lavoro, ne citiamo la fonte e distinguiamo i risultati degli autori dalle nostre prove.
+Il journal contiene materiali editoriali pubblici, non i dati o i log dell'ambiente di sviluppo.
+
+## Temi
+
+- **Provenance:** ricostruire l'origine di un'affermazione e delle sue trasformazioni.
+- **Bitemporalità:** distinguere quando qualcosa vale da quando il sistema ne viene a conoscenza.
+- **Identità e ambiguità:** evitare collegamenti forzati fra persone, oggetti e documenti.
+- **Revisione umana:** conservare motivazioni, disaccordi e cambiamenti di giudizio.
+- **Valutazione:** misurare risultati e percorso seguito per ottenerli.
+
+## Correzioni
+
+Gli articoli hanno una storia versionata. Correzioni sostanziali e sviluppi successivi
+saranno indicati esplicitamente, senza presentare risultati nuovi come se fossero già
+noti al momento della prima pubblicazione.
