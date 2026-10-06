@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo-stacked-color.png" alt="AI-DOTTAMI" width="320">
+</p>
+
 # HC — Engineering Journal
 
 Stiamo costruendo un **Hub Cognitivo**: un sistema che aiuti a interrogare la conoscenza
