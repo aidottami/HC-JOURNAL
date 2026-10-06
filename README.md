@@ -10,6 +10,7 @@ scelte motivate, risultati circoscritti e domande ancora aperte.
 
 | Data | Articolo | Tema |
 |---|---|---|
+| 6 ottobre 2026 | [Una memoria verificabile deve sopravvivere al processo che l’ha creata](journal/2026-10-06-la-memoria-oltre-il-processo.md) | Dal laboratorio — persistenza, stop di orchestrazione e replay; fase precedente alla consultazione integrata |
 | 6 ottobre 2026 | [Dai documenti alla memoria verificabile: una giornata di costruzione dell’HC](journal/2026-10-06-dai-documenti-alla-memoria-verificabile.md) | Dal laboratorio — revisione umana, ledger documentale, test e Clarificatore |
 | 5 ottobre 2026 | [Prima del codice: quali promesse deve mantenere una memoria aziendale?](journal/2026-10-05-prima-del-codice.md) | Il percorso, puntata 1 — requisiti e alternative architetturali |
 | 5 ottobre 2026 | [Mettere alla prova la memoria: cosa abbiamo verificato nell’Hub Cognitivo](journal/2026-10-05-testare-la-memoria.md) | Test, idempotenza, replay e limiti delle verifiche |
