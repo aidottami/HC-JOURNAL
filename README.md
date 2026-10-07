@@ -14,6 +14,7 @@ scelte motivate, risultati circoscritti e domande ancora aperte.
 
 | Data | Articolo | Tema |
 |---|---|---|
+| 7 ottobre 2026 | [Una memoria deve poter essere contestata, anche quando sembra coerente](journal/2026-10-07-contestare-una-memoria.md) | Scelte di progetto — contestazione spontanea, autorità, bitemporalità e riesame delle derivazioni; requisito in roadmap |
 | 6 ottobre 2026 | [Una memoria verificabile deve sopravvivere al processo che l’ha creata](journal/2026-10-06-la-memoria-oltre-il-processo.md) | Dal laboratorio — persistenza, stop di orchestrazione e replay; fase precedente alla consultazione integrata |
 | 6 ottobre 2026 | [Dai documenti alla memoria verificabile: una giornata di costruzione dell’HC](journal/2026-10-06-dai-documenti-alla-memoria-verificabile.md) | Dal laboratorio — revisione umana, ledger documentale, test e Clarificatore |
 | 5 ottobre 2026 | [Prima del codice: quali promesse deve mantenere una memoria aziendale?](journal/2026-10-05-prima-del-codice.md) | Il percorso, puntata 1 — requisiti e alternative architetturali |
