@@ -16,6 +16,7 @@ Le date indicano la fase di lavoro raccontata; la data di pubblicazione è ripor
 
 | Data | Articolo | Tema |
 |---|---|---|
+| 29 ottobre 2026 | [La procedura giusta, nel momento giusto](journal/2026-10-29-la-procedura-giusta-nel-momento-giusto.md) | Bitemporalità, fonti e ricostruzione delle procedure |
 | 22 ottobre 2026 | [Leggere un documento non significa eseguirlo](journal/2026-10-22-leggere-non-significa-autorizzare.md) | Documenti, autorità e conferma esatta delle richieste |
 | 13 ottobre 2026 | [Il grafo funziona. Ora deve farsi capire](journal/2026-10-13-il-grafo-deve-farsi-capire.md) | Dal laboratorio — demo verificata, polarità, giudizi e prossimo prototipo della dashboard |
 | 8 ottobre 2026 | [Quando cambia una premessa, che cosa resta di una decisione?](journal/2026-10-08-quando-cambia-una-premessa.md) | Dal laboratorio — build integrata, basi delle decisioni, riesame e conservazione storica |
