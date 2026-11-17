@@ -16,6 +16,7 @@ Le date indicano la fase di lavoro raccontata; la data di pubblicazione è ripor
 
 | Data | Articolo | Tema |
 |---|---|---|
+| 17 novembre 2026 | [Anche il banco di prova va messo alla prova](journal/2026-11-17-anche-il-banco-di-prova-va-messo-alla-prova.md) | Build verificata, stop del banco di prova, correzione offline e revisione degli oracoli |
 | 4 novembre 2026 | [Quando l’esito di una revoca è incerto](journal/2026-11-04-addendum-permessi.md) | 58 prove offline, revoche e consegna protetta |
 | 29 ottobre 2026 | [La procedura giusta, nel momento giusto](journal/2026-10-29-la-procedura-giusta-nel-momento-giusto.md) | Bitemporalità, fonti e ricostruzione delle procedure |
 | 22 ottobre 2026 | [Leggere un documento non significa eseguirlo](journal/2026-10-22-leggere-non-significa-autorizzare.md) | Documenti, autorità e conferma esatta delle richieste |
